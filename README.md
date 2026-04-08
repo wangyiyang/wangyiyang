@@ -63,8 +63,17 @@ writing: 翊行代码
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangyiyang&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyiyang&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wangyiyang&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wangyiyang&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangyiyang&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangyiyang&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wangyiyang&theme=tokyonight&utcOffset=8" />
 </div>
 
 ---
