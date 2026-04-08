@@ -26,7 +26,7 @@ role: Architect / Tech Writer
 focus:
   - AI Platform
   - Agent Orchestration
-  - PaaS Infrastructure
+  - Engineering Productivity
 interests:
   - RAG
   - MCP
@@ -35,9 +35,10 @@ interests:
 writing: 翊行代码
 ```
 
-- 🏢 架构师，服务于大型产业数字化团队（已脱敏）
-- 🔭 现在重点关注 **大模型平台、Agent 编排、工程化 AI Infra**
-- ✍️ 持续写作，分享 **MCP / RAG / Agent Engineering / AI Coding**
+- 🏗️ 主要做 AI 平台、Agent 编排和工程效率相关的事
+- 🔭 当前关注：**LLM Platform / Agent Engineering / AI Coding**
+- ✍️ 持续写 **MCP / RAG / LangGraph / Claude Code** 等实践内容
+- 🧪 喜欢把新工具先跑通，再沉淀成可复用的方法
 - 🏆 2023 百度智能云千帆大模型应用挑战赛三等奖
 
 ---
@@ -62,12 +63,8 @@ writing: 翊行代码
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangyiyang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyiyang&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=wangyiyang&theme=tokyonight&hide_border=true&background=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangyiyang&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyiyang&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
